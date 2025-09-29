@@ -8,3 +8,6 @@ scikit-learn
 text
 flask
 streamlit
+
+text
+flask>=2.3.0
